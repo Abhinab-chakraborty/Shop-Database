@@ -3,16 +3,16 @@ This repository contains a collection of SQL queries demonstrating proficiency i
 uery Categories
 
 # 1. Aggregate Queries
-Utilized aggregate functions to perform complex data analysis
-Implemented calculations using SUM(), AVG(), COUNT(), MAX(), and MIN()
-Grouped and summarized data to extract meaningful insights
-Included advanced aggregation with HAVING clause for filtered group analysis
+Utilized aggregate functions to perform complex data analysis.[one space]
+Implemented calculations using SUM(), AVG(), COUNT(), MAX(), and MIN().
+Grouped and summarized data to extract meaningful insights.
+Included advanced aggregation with HAVING clause for filtered group analysis.
 
 # 2. Filtering Queries
-Developed precise data retrieval using WHERE clauses
-Implemented complex filtering with multiple conditions
-Used logical operators (AND, OR, NOT) for sophisticated data selection
-Employed pattern matching with LIKE and advanced filtering techniques
+Developed precise data retrieval using WHERE clauses.
+Implemented complex filtering with multiple conditions.
+Used logical operators (AND, OR, NOT) for sophisticated data selection.
+Employed pattern matching with LIKE and advanced filtering techniques.
 
 # 3. Join Queries
 Demonstrated expertise in combining data from multiple tables
